@@ -7,15 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hello! I am a game designer and programmer by trade, but I love tackling all sorts of challenges and picking up new hobbies. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am currently studying at Ontario Tech University in the Game Development and Entrepreneurship Program, and should graduate in 2024! This school year, I am president of the Game Development Student Association. We bring new opportunities to our students for growth, including bringing in guests from the games industry as guest speakers, hosting game jams to help improve their portfolio, offering workshops where students can improve their craft, and giving them a stage to show off their projects to Canadian Game Development Industry with [GameCon](https://www.gamecon.ac/).
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I focus on creating narrative through experience. I believe that video games offer a unique method of storytelling that put players in the driver's seat. Through the choices they make and the actions they take, each player should walk away with an experience that reflects who they are and how they play. This philosophy is at the core of all my game design. Emergent gameplay and narrative, reactive and responsive mechanics, and player expression are something I hope to bring too all the games I work on.
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Beyond games, I enjoy writing, reading, 3D modeling, 3D printing, and improving my programming! I've been working throughout the summer of 2023 to improve my programming skills to ensure I can keep up with dedicated game programmers, but also to help me tinker for home improvement and automation.
