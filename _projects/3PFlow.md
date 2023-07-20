@@ -13,6 +13,7 @@ In this 2D action platformer, take the role of an advanced android responsible f
 
 My Role
 ------------
+
 Built in only 3 months, this game was my first project! I was the lead designer and responsible for programing the character and the enemy AI in the game. It was built in a custom C++ framework called spritelib.
 
 We ran into many limitations with sprirelib that forced us to change our designs. Thankfully, we were able to come up with even more interesting designs, such as changing the slide move for hills and the attack into a single move, the dash. It was an important lesson!

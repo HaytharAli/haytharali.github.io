@@ -13,6 +13,7 @@ Boomerangers is a fast paced head to head arena shooter where players fight usin
 
 My Role
 ------------
+
 Boomerangers was a super complex title to create, we didn't even have a functional game engine for the first 4-5 months of game development. Building the technology along side the game was a difficult but satisfying challenge.
 
 I was in charge of creating the main mechanic of the game, the boomerang. The original design had the boomerang fly towards the center of the player's view, but it made it impossible to effectively hit targets hiding behind cover. Part way through development, we switched to a model that had the boomerang fly towards a point in front of the player that would increase distance until it hits something or was commanded to return, when it would do the opposite. This allowed players to hit players in the back more effectively, which was rewarded with a damage bonus.
