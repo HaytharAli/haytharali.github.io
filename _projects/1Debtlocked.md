@@ -3,7 +3,7 @@ layout: post
 title: Debtlocked Dual (2023)
 description: A 4 player online party game built in Unity!
 ---
-![Key Art](dbdual.png "Debtlocked Dual")
+![Key Art](https://media.discordapp.net/attachments/754553615276048425/1091469541269307443/dbdual.png?width=705&height=814 "Debtlocked Dual")
 
 [Itch.Io Link](https://kanomisu.itch.io/debtlocked-dual)
 
@@ -12,8 +12,8 @@ WINNER OF UNITY'S CHOICE FOR BEST USE OF GAME ENGINE AT GAMECON 2023
 
 ### NOMINEE FOR BEST 3RD YEAR GAME AT GAMECON 2023 ###
 
-![Promo Image](key1.jpg "Fight your Friends!")
-![Promo Image](key2.png "Conquer the Chaos!")
+![Promo Image](https://media.discordapp.net/attachments/966551949778497546/1093512651243528273/image.png?width=705&height=397 "Fight your Friends!")
+![Promo Image](https://img.itch.zone/aW1hZ2UvMTg5NjY5Ni8xMTc4ODM2OC5qcGc=/original/NbdsE0.jpg "Conquer the Chaos!")
 
 Debtlocked Dual was the third year project game from my team Infinite Monkey Theorem. In this 2-4 player online or splitscreen party game, players must play through a variety of minigames created from a combination of two mechanics. Between Falling Platforms, Dodgeballs, Flying Robot Bumpers and more, there are tonnes of possible combinations to experience!
 
