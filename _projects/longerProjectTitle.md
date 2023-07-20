@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debtlocked Dual
+title: Debtlocked Dual (2023)
 description: A 4 player online party game built in Unity!
 ---
 ![Key Art](dbdual.png "Debtlocked Dual")

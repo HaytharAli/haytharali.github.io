@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
+title: Rewinders (Game Jam)
+description: A Time Defying Competitive Twin Stick Shooter
 redirect: https://unsplash.com
 ---
