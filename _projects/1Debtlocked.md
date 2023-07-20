@@ -10,7 +10,7 @@ description: A 4 player online party game built in Unity!
 WINNER OF UNITY'S CHOICE FOR BEST USE OF GAME ENGINE AT GAMECON 2023
 ============
 
-### NOMINEE FOR BEST 3RD YEAR GAME AT GAMECON 2023 ###
+### NOMINEE FOR BEST THIRD YEAR GAME AT GAMECON 2023 ###
 
 ![Promo Image](https://media.discordapp.net/attachments/966551949778497546/1093512651243528273/image.png?width=705&height=397 "Fight your Friends!")
 ![Promo Image](https://img.itch.zone/aW1hZ2UvMTg5NjY5Ni8xMTc4ODM2OC5qcGc=/original/NbdsE0.jpg "Conquer the Chaos!")
